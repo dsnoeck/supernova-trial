@@ -1,0 +1,418 @@
+.typographyWebWebFont1Mixin 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebFont2Mixin 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebFont3Mixin 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebFont4Mixin 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebXxlargeClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebXlargeClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebLargeClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebMediumClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebDefaultClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebSmallClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyWebWebTinyClass 
+ {
+  
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading1 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading2 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading3 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading4 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading5 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidHeading6 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidBody1 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidBody2 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidCaption 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyAndroidAndroidOverline 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading1 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading2 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading3 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading4 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading5 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading6 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosHeading7 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosBody1 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosBody2 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosCaption 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyIosIosOverline 
+ {
+  
+  font-family: "SF Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
