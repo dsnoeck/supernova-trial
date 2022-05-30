@@ -1,3 +1,0 @@
-# Supernova trial
-
-hooks, ...
